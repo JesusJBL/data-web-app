@@ -1,6 +1,6 @@
 streamlit
 pandas
-bokeh
+bokeh==2.4.3
 numpy
 folium
 requests
